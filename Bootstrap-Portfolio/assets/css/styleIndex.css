@@ -4,6 +4,11 @@
     background-color: white;
 }
 
+h1 {
+    margin-left: 15px;
+    color: teal;
+}
+
 img {
     float: left;
 }

@@ -1,20 +1,28 @@
 .containerContact {
-    margin: 20px 10px;
+    margin: 75px 175px;
     padding: 5px;
+}
+
+.col-md-8 {
     background-color: white;
+}
+
+.col-md-4 {
+    background-color: white;
+}
+
+h1 {
+    color: teal;
 }
 
 #buttonSubmitContact {
     background-color: teal;
     color: white;
+    margin-bottom: 10px;
 }
 
 .panel-heading {
     text-align: center;
     font-weight: bold;
     color: teal;
-}
-
-.panel-body {
-    display: inline-block;
 }
