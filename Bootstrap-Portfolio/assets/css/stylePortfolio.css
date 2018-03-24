@@ -1,7 +1,7 @@
 .containerPortfolio {
-    width: 960px;
+    max-width: 960px;
     height: 500px;
-    margin: 75px 255px 75px 255px;
+    margin: auto;
     padding: 5px;
     background-color: white;
 }
