@@ -1,6 +1,6 @@
 .containerContact {
-    width: 960px;
-    margin: 75px 255px 75px 255px;
+    max-width: 960px;
+    margin: auto;
     padding: 5px;
 }
 
