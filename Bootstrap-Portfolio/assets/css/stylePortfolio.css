@@ -1,7 +1,6 @@
 .containerPortfolio {
     width: 960px;
     height: 500px;
-    position: relative;
     margin: 75px 255px 75px 255px;
     padding: 5px;
     background-color: white;
@@ -12,57 +11,3 @@ h1 {
     color: teal;
 }
 
-.hangman {
-    position: relative;
-}
-
-.captionHangman {
-    position: absolute;
-    width: 100%;
-    background-color: teal;
-    color: white;
-}
-
-.rpg {
-    position: relative;
-}
-
-.captionRPG {
-    position: absolute;
-    width: 100%;
-    background-color: teal;
-    color: white;
-}
-
-.trivia {
-    position: relative;
-}
-
-.captionTrivia {
-    position: absolute;
-    width: 100%;
-    background-color: teal;
-    color: white;
-}
-
-.widget {
-    position: relative;
-}
-
-.captionWidget {
-    position: absolute;
-    width: 100%;
-    background-color: teal;
-    color: white;
-}
-
-.rps {
-    position: relative;
-}
-
-.captionRPS {
-    position: absolute;
-    width: 100%;
-    background-color: teal;
-    color: white;
-}
