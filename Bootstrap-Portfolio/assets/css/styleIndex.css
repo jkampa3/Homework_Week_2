@@ -1,5 +1,6 @@
 .containerIndex {
-    margin: 75px 175px;
+    width: 960px;
+    margin: 75px 255px 75px 255px;
     padding: 5px;
     background-color: white;
 }
