@@ -10,3 +10,10 @@ body {
     color: white;
 }
 
+footer {
+    background-color: #f8f8f8;
+    color: #777;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
